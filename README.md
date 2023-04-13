@@ -67,3 +67,5 @@
     The top 5 are 'Baker Inc.', 'Hood-Phillips', 'Smith-Richards', 'Patton-Rivera', 'Allen, Ramos and Caroll'
 
 * Create a view for each of your queries.
+
+    See: [SQL Query](https://github.com/rafi-n/module7_sql_sus_tx/blob/main/sql/query.sql)
